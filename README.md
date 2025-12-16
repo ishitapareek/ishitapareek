@@ -1,39 +1,48 @@
 <h1 align="center">Hi, I’m Ishita 🌷</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Learning+by+failing+and+debugging;Building+clean+and+reliable+software;Curious+mind+with+a+problem-solving+focus&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Aspiring+Software+Engineer;Lifelong+Learner&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
 </p>
 
 <p align="center">
   <i>
-    Learning computer science by building, breaking, debugging, and improving things that (eventually) work </i>
+    Learning computer science by building, breaking, debugging, and improving things that (eventually) work 
+  </i>
 </p>
-
 
 ---
 
 ## 🌸 About Me
 
-I’m a **computer science student** exploring software development through hands-on projects, academic practice, and consistent learning.
+I’m a **computer science student** exploring software development through **academic projects, hands-on practice, and continuous learning**.
 
-I focus on:
-- Understanding concepts deeply, not just syntactically
-- Writing clean, readable, and maintainable code
-- Strengthening problem-solving and logical thinking
-- Building projects that reflect growth over time
+I believe in:
+- 🧠 Understanding concepts deeply (not just making code “work”)  
+- 🧼 Writing clean, readable, and maintainable code  
+- 🧩 Strengthening logical thinking and problem-solving skills  
+- 🌱 Improving through iteration, not shortcuts  
 
-This GitHub profile serves as my **technical portfolio and learning archive**.
+This GitHub profile is my **learning journal and technical portfolio**.
 
 ---
 
-## 🎓 Academic & Technical Interests
+## 🎓 Academic & Technical Focus
 
-- Programming Fundamentals & Object-Oriented Design  
-- Data Structures & Algorithms  
-- Web Development (HTML, CSS, JavaScript, Python)  
-- Software Engineering Principles  
-- Problem Solving & Code Optimization  
+- Programming Fundamentals & Object-Oriented Concepts  
+- Data Structures & Algorithmic Thinking  
+- Web Development  
+- Software Engineering
+- Problem Solving & Logical Reasoning
+
+---
+
+## 🌷 Currently Working On
+
+- 📘 Deepening understanding of **Java & Python fundamentals**
+- 🧠 Applying **data structures and algorithms** to practical problems
+- 🌐 Developing small-scale **web applications**
+- 🔁 Improving **code quality, structure, and documentation**
+- 🧪 Learning foundational **software engineering practices**
 
 ---
 
@@ -41,30 +50,53 @@ This GitHub profile serves as my **technical portfolio and learning archive**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-FF85C1?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FF9ED6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FF85C1?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-FF6F91?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFB7CE?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-FF85C1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FF6F91?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-FF85C1?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FF9ED6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+
 
 ---
 
-## 📂 What You’ll Find on My GitHub
+## 🚀 Featured Projects
 
-- 📘 Academic exercises & foundational programs  
-- 🧠 Problem-solving and logic-based implementations  
-- 🌐 Frontend and full-stack projects  
-- 🧪 Experiments while learning new technologies  
-- 🔁 Improved versions of earlier work  
+### ✅ To-Do List (Full-Stack)
+**Tech:** HTML, CSS, JavaScript, Python, MySQL  
+- A **full-stack task management application**  
+- Implements **CRUD operations** with database integration  
+- Strengthened understanding of frontend–backend interaction  
 
-Each repository reflects **learning, iteration, and progress**.
+---
+
+### 🍩 Sweet Bliss
+**Tech:** HTML, CSS, JavaScript, MongoDB  
+- A **donut shop website** with a modern UI  
+- Focus on **responsive design and user interaction**  
+- Built to practice frontend development and UI structuring  
+
+---
+
+### 🚢 Cruise Reservation System
+**Tech:** Python, Tkinter, MySQL  
+- A **desktop-based cruise reservation application** with a GUI interface  
+- Focus on **booking management, passenger details, and data storage**  
+- Integrated **MySQL database** for persistent reservation handling  
+- Built to strengthen **backend logic, GUI design, and database integration**
+
+---
+
+## 📂 What You’ll Find Here
+
+- 📘 Academic and curriculum-based projects  
+- 🧠 Logic-driven and problem-solving programs  
+- 🌐 Beginner full-stack applications  
+- 🧪 Learning experiments and practice builds  
+- 🔁 Improved and refactored older code  
+
+Every repository reflects **growth, learning, and iteration** 🌱
 
 ---
 
@@ -81,13 +113,13 @@ Each repository reflects **learning, iteration, and progress**.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="[<LINKEDIN_URL>](https://www.linkedin.com/in/ishita-pareek-a8bab9331/)">
+  <a href="https://www.linkedin.com/in/ishita-pareek-a8bab9331/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="ishitapareek15@gmail.com">
+  <a href="mailto:ishitapareek15@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF9ED6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -96,7 +128,7 @@ Each repository reflects **learning, iteration, and progress**.
 
 ## 🌷 Personal Note
 
-> *“Progress matters more than perfection.”*
+<p><center> *“Progress matters more than perfection.”* </center></p>
 
-Thanks for visiting 💗  
-Feel free to explore my repositories or reach out!
+Thanks for stopping by 💗  
+If you’re learning too, we’re already on the same path 🌸
