@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Ishita 🌷</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Aspiring+Software+Engineer;Lifelong+Learner&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Aspiring+Software+Engineer;Lifelong+Learner&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
 </p>
 
 <p align="center">
