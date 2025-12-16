@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=400&center=true&vCenter=true&width=260&lines=·+·+·+·+·+·+·+·+·+·+·+·&color=ff85c1" />
+</p>
+
+
+<p align="center">
   <i>
     Learning computer science by building, breaking, debugging, and improving things that (eventually) work 
   </i>
@@ -18,7 +23,7 @@
 
 ## 🌸 About Me
 
-I’m a <span style="color:pink;">**computer science student**</span> exploring software development through **academic projects, hands-on practice, and continuous learning**.
+I’m a **computer science student**</span> exploring software development through **academic projects, hands-on practice, and continuous learning**.
 
 I believe in:
 - 🧠 Understanding concepts deeply (not just making code “work”)  
