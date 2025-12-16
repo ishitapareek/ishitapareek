@@ -10,6 +10,10 @@
   </i>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-1a3f63a3-4f20-4bb4-8f33-49eae68f4f8b.gif" width="120" />
+</p>
+
 ---
 
 ## 🌸 About Me
@@ -24,6 +28,10 @@ I believe in:
 
 This GitHub profile is my **learning journal and technical portfolio**.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750073-27c07c2b-9f36-4e0e-9b9f-6d87a6f92a08.gif" width="60%" />
+</p>
+
 ---
 
 ## 🎓 Academic & Technical Focus
@@ -34,6 +42,10 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - Software Engineering
 - Problem Solving & Logical Reasoning
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750073-27c07c2b-9f36-4e0e-9b9f-6d87a6f92a08.gif" width="60%" />
+</p>
+
 ---
 
 ## 🌷 Currently Working On
@@ -43,6 +55,10 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - 🌐 Developing small-scale **web applications**
 - 🔁 Improving **code quality, structure, and documentation**
 - 🧪 Learning foundational **software engineering practices**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750073-27c07c2b-9f36-4e0e-9b9f-6d87a6f92a08.gif" width="60%" />
+</p>
 
 ---
 
@@ -57,7 +73,9 @@ This GitHub profile is my **learning journal and technical portfolio**.
   <img src="https://img.shields.io/badge/MySQL-FF85C1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750073-27c07c2b-9f36-4e0e-9b9f-6d87a6f92a08.gif" width="60%" />
+</p>
 
 ---
 
@@ -86,6 +104,10 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - Integrated **MySQL database** for persistent reservation handling  
 - Built to strengthen **backend logic, GUI design, and database integration**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750073-27c07c2b-9f36-4e0e-9b9f-6d87a6f92a08.gif" width="60%" />
+</p>
+
 ---
 
 ## 📂 What You’ll Find Here
@@ -97,6 +119,10 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - 🔁 Improved and refactored older code  
 
 Every repository reflects **growth, learning, and iteration** 🌱
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/a327d4114ab752c453be5b97baabcbad/139f750747461c5d-31/s1280x1920/8d4af2d77551a6ff2b23548dd346fd3d927adba5.gifv" width="60%" />
+</p>
 
 ---
 
@@ -110,6 +136,9 @@ Every repository reflects **growth, learning, and iteration** 🌱
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapareek&theme=rose_pine&hide_border=true&ring=ff69b4&fire=ff85c1&currStreakLabel=ff9ed6&sideLabels=fadadd" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=90&section=footer" />
+</p>
 
 ---
 
@@ -119,6 +148,10 @@ Every repository reflects **growth, learning, and iteration** 🌱
   <a href="https://www.linkedin.com/in/ishita-pareek-a8bab9331/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-1a3f63a3-4f20-4bb4-8f33-49eae68f4f8b.gif" width="100" />
 </p>
 
 ---
