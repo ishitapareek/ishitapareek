@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=400&center=true&vCenter=true&width=260&lines=·+·+·+·+·+·+·+·+·+·+·+·&color=ff85c1" />
-</p>
-
-
-<p align="center">
   <i>
     Learning computer science by building, breaking, debugging, and improving things that (eventually) work 
   </i>
@@ -18,6 +13,10 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/a327d4114ab752c453be5b97baabcbad/139f750747461c5d-31/s1280x1920/8d4af2d77551a6ff2b23548dd346fd3d927adba5.gifv"/>
 </p>
+<p align="center">
+  <img src="[https://64.media.tumblr.com/a327d4114ab752c453be5b97baabcbad/139f750747461c5d-31/s1280x1920/8d4af2d77551a6ff2b23548dd346fd3d927adba5.gifv](https://64.media.tumblr.com/b6bbe4aa0578f0749539bfae80395ff9/6f883a26046d261e-eb/s540x810/41e6990eb5c5acd21de16d6c6a9515575bba5217.gifv)"/>
+</p>
+
 
 ---
 
