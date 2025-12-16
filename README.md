@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Ishita 🌷</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Aspiring+Software+Engineer;Lifelong+Learner&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
+ <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Aspiring+Software+Engineer;Lifelong+Learner&color=ff69b4&multicolor=true&colors=ff69b4,ff85c1,ff9ed6,fadadd" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 
-I’m a **computer science student**</span> exploring software development through **academic projects, hands-on practice, and continuous learning**.
+I’m a **computer science student** exploring software development through **academic projects, hands-on practice, and continuous learning**.
 
 I believe in:
 - 🧠 Understanding concepts deeply (not just making code “work”)  
@@ -26,7 +26,7 @@ I believe in:
 - 🧩 Strengthening logical thinking and problem-solving skills  
 - 🌱 Improving through iteration, not shortcuts  
 
-This GitHub profile is my **learning journal and technical portfolio**.
+This GitHub profile serves as both my **learning journal and technical portfolio**.
 
 ---
 
@@ -38,8 +38,6 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - Software Engineering
 - Problem Solving & Logical Reasoning
 
-
-
 ---
 
 ## 🌷 Currently Working On
@@ -49,8 +47,6 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - 🌐 Developing small-scale **web applications**
 - 🔁 Improving **code quality, structure, and documentation**
 - 🧪 Learning foundational **software engineering practices**
-
-
 
 ---
 
@@ -64,7 +60,6 @@ This GitHub profile is my **learning journal and technical portfolio**.
   <img src="https://img.shields.io/badge/JavaScript-FFB7CE?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-FF85C1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -90,9 +85,7 @@ This GitHub profile is my **learning journal and technical portfolio**.
 **Tech:** Python, Tkinter, MySQL  
 - A **desktop-based cruise reservation application** with a GUI interface  
 - Focus on **booking management, passenger details, and data storage**  
-- Integrated **MySQL database** for persistent reservation handling  
 - Built to strengthen **backend logic, GUI design, and database integration**
-
 
 ---
 
@@ -105,7 +98,6 @@ This GitHub profile is my **learning journal and technical portfolio**.
 - 🔁 Improved and refactored older code  
 
 Every repository reflects **growth, learning, and iteration** 🌱
-
 
 ---
 
@@ -125,10 +117,10 @@ Every repository reflects **growth, learning, and iteration** 🌱
 
 ## 🌷 Personal Note
 
-<p align="center"><i>“Progress matters more than perfection.”</i></p>
+<p align="center"><i>“Speed doesn't matter. Forward is forward.”</i></p>
 
 <p align="center"><b>Thanks for stopping by 💗</b></p>
-<p align="center"><b>If you’re learning too, we’re already on the same path 🌸</b></p>
+<p align="center"><b><i>If you’re learning and growing, you’re already in good company 🌸</i></b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishita-pareek-a8bab9331/">
