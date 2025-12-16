@@ -119,9 +119,6 @@ Every repository reflects **growth, learning, and iteration** 🌱
   <a href="https://www.linkedin.com/in/ishita-pareek-a8bab9331/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ishitapareek15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF9ED6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
