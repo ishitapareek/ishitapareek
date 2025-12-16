@@ -60,7 +60,7 @@ This GitHub profile is my **learning journal and technical portfolio**.
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FF85C1?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-FF6F91?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFB7CE?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-FF85C1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
