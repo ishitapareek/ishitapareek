@@ -125,7 +125,7 @@ Every repository reflects **growth, learning, and iteration** 🌱
 
 ## 🌷 Personal Note
 
-<p><center> *“Progress matters more than perfection.”* </center></p>
+<p align="center"><i>“Progress matters more than perfection.”</i></p>
 
-Thanks for stopping by 💗  
-If you’re learning too, we’re already on the same path 🌸
+<p align="center"><b>Thanks for stopping by 💗</b></p>
+<p align="center"><b>If you’re learning too, we’re already on the same path 🌸</b></p>
