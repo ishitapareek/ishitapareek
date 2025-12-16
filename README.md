@@ -117,7 +117,7 @@ Every repository reflects **growth, learning, and iteration** 🌱
 
 ## 🌷 Personal Note
 
-<p align="center"><i>“Speed doesn't matter. Forward is forward.”</i></p>
+<p align="center"><i>“Don't rush. Accomplish at your pace. Speed doesn't matter when you decide to relentlessly keep advancing towards your dream which ignites your being.” ― Hiral Nagda</i></p>
 
 <p align="center"><b>Thanks for stopping by 💗</b></p>
 <p align="center"><b><i>If you’re learning and growing, you’re already in good company 🌸</i></b></p>
