@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 
-I’m a **computer science student** exploring software development through **academic projects, hands-on practice, and continuous learning**.
+I’m a <span style="color:pink;">**computer science student**</span> exploring software development through **academic projects, hands-on practice, and continuous learning**.
 
 I believe in:
 - 🧠 Understanding concepts deeply (not just making code “work”)  
