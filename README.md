@@ -108,8 +108,9 @@ Every repository reflects **growth, learning, and iteration** 🌱
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapareek&theme=rose_pine&hide_border=true&ring=ff69b4&fire=ff85c1&currStreakLabel=ff9ed6&sideLabels=fadadd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishitapareek&theme=rose_pine&hide_border=true&ring=%23ff69b4&fire=%23ff85c1&currStreakLabel=%23ff9ed6&sideLabels=%23fadadd" />
 </p>
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/a327d4114ab752c453be5b97baabcbad/139f750747461c5d-31/s1280x1920/8d4af2d77551a6ff2b23548dd346fd3d927adba5.gifv"/>
