@@ -107,9 +107,7 @@ Every repository reflects **growth, learning, and iteration** 🌱
   <img src="https://github-readme-stats.vercel.app/api?username=ishitapareek&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=ff9ed6&text_color=fadadd&bg_color=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishitapareek&theme=rose_pine&hide_border=true&ring=ff69b4&fire=%23ff85c1&currStreakLabel=%23ff9ed6&sideLabels=%23fadadd" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ishitapareek&cache_seconds=86400&theme=rose_pine&hide_border=true&ring=%23ff69b4&fire=%23ff85c1&currStreakLabel=%23ff9ed6&sideLabels=%23fadadd)
 
 
 
