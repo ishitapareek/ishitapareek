@@ -24,7 +24,6 @@ I believe in:
 - 🧠 Understanding concepts deeply (not just making code “work”)  
 - 🧼 Writing clean, readable, and maintainable code  
 - 🧩 Strengthening logical thinking and problem-solving skills  
-- 🌱 Improving through iteration, not shortcuts  
 
 This GitHub profile serves as both my **learning journal and technical portfolio**.
 
@@ -42,8 +41,7 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 
 ## 🌷 Currently Working On
 
-- 📘 Deepening understanding of **Java & Python fundamentals**
-- 🧠 Applying **data structures and algorithms** to practical problems
+- 📘 Deepening understanding of **programing fundamentals**
 - 🌐 Developing small-scale **web applications**
 - 🔁 Improving **code quality, structure, and documentation**
 - 🧪 Learning foundational **software engineering practices**
@@ -65,7 +63,7 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 
 ## 🚀 Featured Projects
 
-### ✅ To-Do List (Full-Stack)
+### ✅ To-Do List
 **Tech:** HTML, CSS, JavaScript, Python, MySQL  
 - A **full-stack task management application**  
 - Implements **CRUD operations** with database integration  
@@ -95,9 +93,8 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 - 🧠 Logic-driven and problem-solving programs  
 - 🌐 Beginner full-stack applications  
 - 🧪 Learning experiments and practice builds  
-- 🔁 Improved and refactored older code  
 
-Every repository reflects **growth, learning, and iteration** 🌱
+Every repository reflects **growth and learning** 🌱
 
 ---
 
