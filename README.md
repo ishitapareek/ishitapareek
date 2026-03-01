@@ -117,21 +117,14 @@ Every repository reflects **growth and learning** 🌱
     referrerpolicy="no-referrer"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://64.media.tumblr.com/a327d4114ab752c453be5b97baabcbad/139f750747461c5d-31/s1280x1920/8d4af2d77551a6ff2b23548dd346fd3d927adba5.gifv"/>
 </p>
 
 ## 🌷 Personal Note
 
-<p align="center"><i>“Don't rush. Accomplish at your pace. Speed doesn't matter when you decide to relentlessly keep advancing towards your dream which ignites your being.” ― Hiral Nagda</i></p>
+<p align="center"><i>“Don't rush. Accomplish at your pace. Speed doesn't matter when you decide to relentlessly keep advancing towards your dream, which ignites your being.” ― Hiral Nagda</i></p>
 
 <p align="center"><b>Thanks for stopping by 💗</b></p>
 <p align="center"><b><i>If you’re learning and growing, you’re already in good company 🌸</i></b></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishita-pareek-a8bab9331/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
