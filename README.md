@@ -43,7 +43,7 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 
 - 📘 Deepening understanding of **programing fundamentals**
 - 🌐 Developing small-scale **web applications**
-- 🔁 Improving **code quality, structure, and documentation**
+- 🔁 Improving **code quality and structure**
 - 🧪 Learning foundational **software engineering practices**
 
 ---
