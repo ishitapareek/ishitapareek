@@ -58,6 +58,7 @@ This GitHub profile serves as both my **learning journal and technical portfolio
   <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFB7CE?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-FF85C1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-FF9EC7?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 <p align="center">
