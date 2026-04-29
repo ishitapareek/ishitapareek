@@ -87,11 +87,12 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 
 ---
 
-### 🚢 Cruise Reservation System
-**Tech:** Python, Tkinter, MySQL  
-- A **desktop-based cruise reservation application** with a GUI interface  
-- Focus on **booking management, passenger details, and data storage**  
-- Built to strengthen **backend logic, GUI design, and database integration**
+### 🚢 Mariana Cruise Reservation System
+**Tech:** Python, MySQL, HTML, CSS, JavaScript
+- A **full-stack web application** for cruise booking and reservation management
+- Implements **RESTful APIs, user authentication, and dynamic UI rendering**
+- Utilizes MySQL **stored procedures, triggers, functions, and views** for efficient data handling
+- Focused on **scalable backend architecture and secure database integration
 
 ---
 
