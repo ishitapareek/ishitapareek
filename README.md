@@ -92,7 +92,7 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 - A **full-stack web application** for cruise booking and reservation management
 - Implements **RESTful APIs, user authentication, and dynamic UI rendering**
 - Utilizes MySQL **stored procedures, triggers, functions, and views** for efficient data handling
-- Focused on **scalable backend architecture and secure database integration
+- Focused on **scalable backend architecture and secure database integration**
 
 ---
 
