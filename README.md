@@ -96,6 +96,14 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 
 ---
 
+### 🎯 Tambola — Game Manager
+**Tech:** Python, Flask, JavaScript, HTML, CSS
+- A **full-stack Tambola game manager** with real-time number calling and voice announcements
+- Implements **player tracking, prize management, and automated winner assignment** with split-prize support
+- Designed a **live scoreboard and end-of-game summary** with per-player earnings and unclaimed prize tallying
+  
+---
+
 ## 📂 What You’ll Find Here
 
 - 📘 Academic and curriculum-based projects  
