@@ -32,7 +32,8 @@ This GitHub profile serves as both my **learning journal and technical portfolio
 ## 🎓 Academic & Technical Focus
 
 - Programming Fundamentals & Object-Oriented Concepts  
-- Data Structures & Algorithmic Thinking  
+- Data Structures & Algorithmic Thinking
+- Database Design & Management
 - Web Development  
 - Software Engineering
 - Problem Solving & Logical Reasoning
